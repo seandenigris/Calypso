@@ -29,7 +29,7 @@ Pharo system browser
 ```Smalltalk
 Metacello new
   baseline: 'Calypso';
-  repository: 'github://dionisiydk/Calypso';
+  repository: 'github://pharo-ide/Calypso';
   load
 ```
 To make Calypso default toolset evaluate:
